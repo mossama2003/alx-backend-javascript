@@ -1,5 +1,3 @@
-/* eslint-disable no-underscore-dangle */
-// eslint-disable-next-line no-underscore-dangle
 const _brand = Symbol('brand');
 const _motor = Symbol('motor');
 const _color = Symbol('color');
